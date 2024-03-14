@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author dhine
- *
- */
-module HospitalManagementSystem {
-}
